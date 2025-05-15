@@ -1,6 +1,6 @@
 <h1>
     <a href="https://www.gov.br/inpe/pt-br">
-     <img align="center" width="40px" src="https://logodownload.org/wp-content/uploads/2019/10/inpe-logo-4.png"></a>
+     <img align="center" width="50px" src="https://logodownload.org/wp-content/uploads/2019/10/inpe-logo-4.png"></a>
     <span> Lucas A C Reis</span>
 </h1>
 
